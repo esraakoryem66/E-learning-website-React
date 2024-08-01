@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/E-learning-website-React/static/css/main.f855e6bc.css",
+    "main.js": "/E-learning-website-React/static/js/main.0ad32baf.js",
+    "static/js/453.e6e35fed.chunk.js": "/E-learning-website-React/static/js/453.e6e35fed.chunk.js",
+    "static/media/logo.svg": "/E-learning-website-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/E-learning-website-React/index.html",
+    "main.f855e6bc.css.map": "/E-learning-website-React/static/css/main.f855e6bc.css.map",
+    "main.0ad32baf.js.map": "/E-learning-website-React/static/js/main.0ad32baf.js.map",
+    "453.e6e35fed.chunk.js.map": "/E-learning-website-React/static/js/453.e6e35fed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0ad32baf.js"
+  ]
+}
